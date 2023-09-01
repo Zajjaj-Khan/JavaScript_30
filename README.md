@@ -11,7 +11,8 @@ Each project would be different.
 
 ## List
 
-| #   | Project        | Description                                                                  |
-| :-- | :------------- | :--------------------------------------------------------------------------- |
-| 01  | Drum-Kit       | User can play a drum-kit with keyboard/click                                 |
-| 01  | Event Key code | User can stroke any key on keyboard and it will show Key Pressed/Code/Number |
+| #   | Project        | Description                                                                   |
+| :-- | :------------- | :---------------------------------------------------------------------------- |
+| 01  | Drum-Kit       | User can play a drum-kit with keyboard/click                                  |
+| 02  | Event Key code | User can stroke any key on keyboard and it will show Key Pressed/Code/Number  |
+| 03  | Simon Game     | User have to follow a pattern along , if the pattern goes wrong _GAME OVER_ ! |
